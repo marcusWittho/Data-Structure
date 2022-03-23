@@ -1,6 +1,6 @@
-const StackArray = require('./stack');
+const Stack = require('./stack');
 
-const stack = new StackArray();
+const stack = new Stack();
 
 stack.addItem('a');
 stack.addItem('b');

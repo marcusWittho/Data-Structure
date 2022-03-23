@@ -1,6 +1,6 @@
-const StackArray = require('./stack');
+const Stack = require('./stack');
 
-const stack = new StackArray();
+const stack = new Stack();
 
 function convertToBinary(decNumber, base) {
   const digits = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ';

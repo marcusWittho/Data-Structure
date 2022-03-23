@@ -1,4 +1,4 @@
-class stackArray {
+class stack {
   constructor() {
     this.count = 0;
     this.items = {};
@@ -50,4 +50,4 @@ class stackArray {
   }
 }
 
-module.exports = stackArray;
+module.exports = stack;
