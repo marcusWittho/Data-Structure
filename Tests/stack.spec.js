@@ -1,7 +1,6 @@
 const { expect } = require('chai');
 const Stack = require('../Stack/stack');
 
-
 describe("Testing the stack structure:", () => {
   let stack;
 
