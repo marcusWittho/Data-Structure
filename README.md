@@ -18,3 +18,8 @@ A Queue tem o seguinte comportamento, o primeiro item adicionado é o primeiro a
 ## Deque
 A estrutura Deque foi utilizada na implementação da função para retornar se uma string é um palíndromo.
 Na estrutra Deque os itens podem ser inseridos ou removidos nas duas extremidades.
+
+## LinkedList
+A lista ligada é utilizada para armazenar uma coleção sequencial de elementos, mas não são posicionados
+de forma contígua na memória, na lista ligada temos em cada célula o elemento adicionado e um ponteiro
+para a célula do próximo elemento da lista.
