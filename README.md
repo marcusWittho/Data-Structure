@@ -1,6 +1,6 @@
 # Estrutura de dados e Algoritimos
 
-Em desenvolvimento :)
+Em desenvolvimento
 
 Este repositório foi criado para exercitar e entender melhor alguns tipos de estrutras de dados e algoritimos.
 
